@@ -15,7 +15,7 @@ public class MainClass {
 			toys[i].alarm();			
 			toys[i].light();
 			
-			System.out.println();
+			System.out.println("puhaha");
 		}
 	}
 }
